@@ -110,22 +110,22 @@ readPc = false;
 autovn = false;
 autoketik = false;
 prefixStatus = true;
-targetpc = "6283871990243";
-owner = "6283871990243";
-namabot = "Xrutz Selfbot";
-fakeyoi = "Arell Ganz";
+targetpc = "62881037046507";
+owner = "62881037046507";
+namabot = "galaxy Selfbot";
+fakeyoi = "Yudi Ganz";
 HunterApi = "Ikyy69",
 valkey = "rivalgans",
 dapapi = "itsmevall",
 nomorowner1 = "@6283871990243";
-fake = `© 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`;
+fake = `© Kxyudi 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`;
 thumb = fs.readFileSync("./stik/thumb.jpg");
 numbernye = "0";
 waktu = "-";
 alasan = "-";
 autojoin = false;
 hit_today = [];
-// Thank you bhai
+// Thank you salam dari binjai 🗿
 //=================================================//
 let _scommand = JSON.parse(fs.readFileSync("./database/scommand.json"));
 
@@ -331,12 +331,12 @@ await itsmevall.updatePresence(from, Presence.composing)
      
     //MESS
     mess = {
-      wait: "➤ *Sedang Proses Kak!*",
+      wait: "➤ *Sedang Proses Kak🗿!*",
       success: "➤ *Berhasil dilakukan!*",
       wrongFormat: "➤ *Format tidak ada di Menu!*",
       error: {
         stick: "➤ *Bukan sticker itu Blok!*",
-        apiz: "➤ *Error!*",
+        apiz: "➤ *Error🗿!*",
         Iv: "➤ *Link tidak Valid Kak!*",
       },
       only: {
