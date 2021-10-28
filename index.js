@@ -74,7 +74,7 @@ const truth = JSON.parse(fs.readFileSync('./database/truth.json'))
 const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 /*let prefix = _chats.match(prefixRegEx) ? prefixRegEx.exec(_chats)[0] : "";
     body =*/
-    // by Xrutz Ganz
+    // by Yudi Ganz
  /// image ///
 const iye = fs.readFileSync('./stik/thumb.jpg')
 const asw1 =('https://g.top4top.io/p_21023y5wu0.jpg')
@@ -117,7 +117,7 @@ fakeyoi = "Yudi Ganz";
 HunterApi = "Ikyy69",
 valkey = "rivalgans",
 dapapi = "itsmevall",
-nomorowner1 = "@6283871990243";
+nomorowner1 = "@62881037046507";
 fake = `© Kxyudi 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍`;
 thumb = fs.readFileSync("./stik/thumb.jpg");
 numbernye = "0";
