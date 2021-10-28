@@ -109,13 +109,13 @@ readPc = false;
 autovn = true;
 autoketik = false;
 prefixStatus = true;
-targetpc = "6282284568556";
-owner = "6282284568556";
-fakeyoi = "WinBellzッ";
+targetpc = "62881037046507";
+owner = "62881037046507";
+fakeyoi = "Yudiッ";
 HunterApi = "Ikyy69",
 valkey = "rivalgans",
 dapapi = "itsmevall",
-nomorowner1 = "@6282284568556";
+nomorowner1 = "@62881037046507";
 fake = `WinBellzッ\n ${ucapanWaktu} Kak🐤 \n🔖Prefix :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg");
 numbernye = "0";
@@ -123,7 +123,7 @@ waktu = "-";
 alasan = "-";
 autojoin = false;
 hit_today = [];
-// Makasih Dh Pake 
+// Makasih salam dari binjai 🗿
 //=================================================//
 let _scommand = JSON.parse(fs.readFileSync("./database/scommand.json"));
 
