@@ -1,10 +1,10 @@
-const menus = (prefix, pushname, waktoo, wib, hari, date) => {
+const menus = (prefix, pushname, waktoo, wita, hari, date) => {
   return `Halo ${pushname}👋
   
-Hour : ${waktoo} || ${wib} WIB
+Hour : ${waktoo} || ${wita} WIB
 Date : ${date}
 
-   *Here is a list of menu bots🤖*
+   *Ini menu bot nya kak 👤🤖*
 
 *CONVERT*
  •${prefix}sticker
@@ -30,7 +30,7 @@ Date : ${date}
  •${prefix}setleft
  •${prefix}delleft
 
-*Bot Creator By ©Xeon`
+*Bot Creator By ©Yudi`
 }
 
 exports.menus = menus
