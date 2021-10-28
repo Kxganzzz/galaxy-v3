@@ -1,5 +1,5 @@
 {
-  "name": "Vimdhayak-Bot",
+  "name": "galaxy-Bot",
   "version": "1.0.0",
   "description": "TOD",
   "main": "main.js",
@@ -63,7 +63,7 @@
   "keywords": [
     "Wasu"
   ],
-  "author": "WKWK",
+  "author": "Yudi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Hexagonz"
