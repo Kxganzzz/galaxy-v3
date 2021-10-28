@@ -1,5 +1,5 @@
 {
-  "name": "Xeon-BOT",
+  "name": "galaxy-BOT",
   "version": "1.0.0",
   "description": "TOD",
   "main": "main.js",
@@ -62,7 +62,7 @@
   "keywords": [
     "Wasu"
   ],
-  "author": "WKWK",
+  "author": "yudi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Hexagonz"
